@@ -26,3 +26,9 @@ Compile e execute a aplicação.
 
 # Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+
+## Contato
+
+[Izabella Vieira] - [izabella.vm@hotmail.com]
+
+
